@@ -14,7 +14,6 @@ const Normalform = () => {
 
     const handlesubmit = (e) => {
         e.preventDefault();
-        // Add your form submission logic here
     };
 
     return (
